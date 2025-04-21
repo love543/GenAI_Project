@@ -102,11 +102,6 @@ torch
 transformers
 ```
 
-## 🖼️ Demo
-
-Try the demo of this app on Hugging Face Spaces to see it in action!
-
-- **Link to Hugging Face Space**: [Demo on Hugging Face](https://huggingface.co/spaces/mohAhmad/RAGMODEL)
 
 ## 📃 License
 
