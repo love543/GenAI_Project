@@ -1,7 +1,8 @@
 # GenAI_Project
 # 📄 PDF Query Application
 
-![image](https://github.com/user-attachments/assets/4919f36b-a343-4b3b-950a-9feb781c49f7)
+![image](https://github.com/user-attachments/assets/2929f1e8-a239-4e6f-b887-e369b001fe0b)
+
 
 
 This Streamlit application allows users to upload a PDF document and ask questions about its content using an AI model. The application utilizes the Groq API and the LLaMA model from Hugging Face to 
